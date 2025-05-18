@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Dava Yuste - Spiuwirkid
+# Dava Yuste - Spiuwirkid - ddavadev
 
 import base64, marshal, zlib, binascii, traceback, inspect, sys, time, os, platform, ctypes, uuid, datetime, hashlib
 from Crypto.Cipher import AES, ChaCha20, Blowfish
